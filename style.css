@@ -1,26 +1,26 @@
 /* ===== Tokens ===== */
 :root {
-  --bg: #070707;
-  --surface: #111111;
+  --bg: #020d0c;
+  --surface: #0a1716;
   --ink: #edf7ee;
-  --muted: #b7c9bb;
-  --accent: #a8ff5c;
-  --accent-ink: #071200;
-  --mark: #d7ff6a;
-  --line: #2a2d2a;
+  --muted: #aabeb5;
+  --accent: #74d7c4;
+  --accent-ink: #041614;
+  --mark: #d4fb7a;
+  --line: #1d2d2b;
   --radius: 10px;
   --font-head: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
   --font-body: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 :root[data-theme="dark"] {
-  --bg: #070707;
-  --surface: #111111;
+  --bg: #020d0c;
+  --surface: #0a1716;
   --ink: #edf7ee;
-  --muted: #b7c9bb;
-  --accent: #a8ff5c;
-  --accent-ink: #071200;
-  --mark: #d7ff6a;
-  --line: #2a2d2a;
+  --muted: #aabeb5;
+  --accent: #74d7c4;
+  --accent-ink: #041614;
+  --mark: #d4fb7a;
+  --line: #1d2d2b;
 }
 
 /* ===== Base ===== */
